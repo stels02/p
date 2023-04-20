@@ -1,0 +1,75 @@
+@font-face {
+    font-family: "Playfair Display";
+    src: url(../font/PlayfairDisplay-Regular.ttf);
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Playfair Display";
+    src: url(../font/PlayfairDisplay-Italic.ttf);
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Playfair Display";
+    src: url(../font/PlayfairDisplay-Medium.ttf);
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Playfair Display";
+    src: url(../font/PlayfairDisplay-MediumItalic.ttf);
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Playfair Display";
+    src: url(../font/PlayfairDisplay-SemiBold.ttf);
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Playfair Display";
+    src: url(../font/PlayfairDisplay-SemiBoldItalic.ttf);
+    font-style: italic;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Playfair Display";
+    src: url(../font/PlayfairDisplay-Bold.ttf);
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Playfair Display";
+    src: url(../font/PlayfairDisplay-BoldItalic.ttf);
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Playfair Display";
+    src: url(../font/PlayfairDisplay-ExtraBold.ttf);
+    font-style: normal;
+    font-weight: 800;
+}
+@font-face {
+    font-family: "Playfair Display";
+    src: url(../font/PlayfairDisplay-ExtraBoldItalic.ttf);
+    font-style: italic;
+    font-weight: 800;
+}
+@font-face {
+    font-family: "Playfair Display";
+    src: url(../font/PlayfairDisplay-Black.ttf);
+    font-style: normal;
+    font-weight: 900;
+}
+@font-face {
+    font-family: "Playfair Display";
+    src: url(../font/PlayfairDisplay-BlackItalic.ttf);
+    font-style: italic;
+    font-weight: 900;
+}
+body {
+    font-family: "Playfair Display", system-ui, -apple-system, "Segoe UI", Robosystem-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
